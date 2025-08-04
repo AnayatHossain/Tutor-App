@@ -1,0 +1,29 @@
+class ImagePath {
+  static const String logo = "assets/logo.png";
+  static const String commentsIconImage = "assets/images/comments.png";
+  static const String noDataFound = "assets/images/noDataFound.png";
+  static const String commentsIcon = "assets/images/comment.png";
+  static const String authImage = "assets/images/authImage.png";
+  static const String welcomeImage = "assets/images/welcome1.png";
+  static const String cookingMeetup = "assets/images/cookingMeetup.png";
+  static const String newsImage = "assets/images/newsImage.png";
+  static const String user1 = "assets/images/user1.png";
+  static const String user2 = "assets/images/user2.png";
+  static const String user3 = "assets/images/user3.png";
+  static const String user4 = "assets/images/user4.png";
+  static const String user5 = "assets/images/user5.png";
+  static const String item1 = "assets/images/item1.png";
+  static const String item2 = "assets/images/item2.png";
+  static const String item3 = "assets/images/item3.png";
+  static const String item4 = "assets/images/item4.png";
+  static const String item5 = "assets/images/item5.png";
+  static const String item6 = "assets/images/item6.png";
+  static const String item7 = "assets/images/item7.png";
+  static const String item8 = "assets/images/item8.png";
+  static const String food1 = "assets/images/food1.png";
+  static const String food2 = "assets/images/food2.png";
+  static const String food3 = "assets/images/food3.png";
+  static const String starIcon = "assets/images/starIcon.png";
+  static const String uploadImage = "assets/images/uploadImage.png";
+  static const String sendButton = "assets/images/sendButton.png";
+}
